@@ -1,5 +1,9 @@
-# My-portofolio1
+# Hasil sistem informasi yang telat dibuat
 
--Gambar 1
+-Login admin
 
 ![img 1](Screenshot/Screenshot_1.png)
+
+-Login siswa
+
+![img 1](Screenshot/Screenshot_8.png)
