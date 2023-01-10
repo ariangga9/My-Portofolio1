@@ -1,7 +1,7 @@
-# Hasil sistem informasi yang telat dibuat
+# Hallo, Berikut ini adalah portofolio Ari Angga
+Membuat sistem informasi untuk ujian online.Menggunakan PHP,HTML,CSS dan Bootsrap 4
 
-
-
+# Review singkat design web
 ![img 1](Screenshot/Screenshot_1.png)
 
 
